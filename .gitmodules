@@ -1,0 +1,3 @@
+[submodule "contact-app"]
+	path = contact-app
+	url = git@github.com:zhpinkman/contact-app.git
