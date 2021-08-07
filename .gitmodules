@@ -1,3 +1,12 @@
 [submodule "contact-app"]
 	path = contact-app
 	url = git@github.com:zhpinkman/contact-app.git
+[submodule "JIK_JIK"]
+	path = JIK_JIK
+	url = git@github.com:zhpinkman/JIK_JIK.git
+[submodule "BricksBreaker"]
+	path = BricksBreaker
+	url = git@github.com:zhpinkman/BricksBreaker.git
+[submodule "Mad-House"]
+	path = Mad-House
+	url = git@github.com:zhpinkman/Mad-House.git
