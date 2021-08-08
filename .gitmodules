@@ -13,3 +13,6 @@
 [submodule "course-schedule-checker"]
 	path = course-schedule-checker
 	url = https://github.com/zhpinkman/course-schedule-checker
+[submodule "Online-Shopping-App"]
+	path = Online-Shopping-App
+	url = https://github.com/zhpinkman/Online-Shopping-App/
