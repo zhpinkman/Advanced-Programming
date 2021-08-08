@@ -10,3 +10,6 @@
 [submodule "Mad-House"]
 	path = Mad-House
 	url = git@github.com:zhpinkman/Mad-House.git
+[submodule "course-schedule-checker"]
+	path = course-schedule-checker
+	url = https://github.com/zhpinkman/course-schedule-checker
