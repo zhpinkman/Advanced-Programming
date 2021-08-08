@@ -16,3 +16,6 @@
 [submodule "Online-Shopping-App"]
 	path = Online-Shopping-App
 	url = https://github.com/zhpinkman/Online-Shopping-App/
+[submodule "Board-Task-Manager"]
+	path = Board-Task-Manager
+	url = https://github.com/zhpinkman/Board-Task-Manager
