@@ -19,3 +19,6 @@
 [submodule "Board-Task-Manager"]
 	path = Board-Task-Manager
 	url = https://github.com/zhpinkman/Board-Task-Manager
+[submodule "Hotel-Manager-App"]
+	path = Hotel-Manager-App
+	url = https://github.com/zhpinkman/Hotel-Manager-App/
